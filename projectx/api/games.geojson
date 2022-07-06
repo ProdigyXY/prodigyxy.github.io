@@ -1,0 +1,240 @@
+{
+    "status" : 200,
+    "message" : "Games fetched successfully",
+    "data" : [
+        {
+            "title" : "Rugby Kicks",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/773f9da019d4f99781c8d79c1e00ea32.png",
+            "category" : "",
+            "orientation" : "portrait",
+            "url" : "https://showcase.codethislab.com/games/rugby_kicks/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Spin & Win",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2017/08/a0106f55190769.597a049229c17.jpg",
+            "category" : "",
+            "orientation" : "portrait",
+            "url" : "https://showcase.codethislab.com/games/spin_and_win/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Rocking Wheels",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/c47fc60304f5e762e05094da90e08b31.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/rocking_wheels/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "3D Roulette",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/14b66818501149.562ca80f0ccb7.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://codethislab.com/showcase/casino/roulette/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Christmas Chain",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/6ad8ca22113533.5630cd079c670.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://codethislab.com/showcase/games/christamas_chain/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Horse Racing",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/bcce5025f3f5231fa5572b82e115a0d3.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/horse_racing/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "RWheel of Fortune",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/749da026661845.563589846e608.png",
+            "category" : "",
+            "orientation" : "portrait",
+            "url" : "https://codethislab.com/showcase/casino/wheel_fortune/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Zombie Invasion",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/27c27201d481aaa41ac2181a311f34f0.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/zombie_invasion/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Cyclops Ruins",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/ce81a5825650a8498b5af1de1f8511a6.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/cyclops_ruins/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "3D Lottery",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/773f9da019d4f99781c8d79c1e00ea32.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/3d_lottery/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Caveman Hunt",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/f32a2d30181241be5037723de2c023a4.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/caveman_hunt/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Nugget Seeker",
+            "description" : "",
+            "image" : "https://gspro.inw24.com/assets/upload/content/96284892f7405b9defdf1f8ec8cf68b8.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/nugget_seeker_adventure/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Cliff Diving",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2018/06/e9b03267051711.5b2bd0a0a5ac1.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/cliff_diving/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Joker Poker",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2017/02/05a8b948864017.58a43a2ca8480.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/joker_poker/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Bingo",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/2b929c34852999.56e0322212191.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/bingo/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Sushi Matching",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/f6383736558259.5720b7376f798.png",
+            "category" : "",
+            "orientation" : "portrait",
+            "url" : "https://showcase.codethislab.com/games/sushi_matching/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Slot Machine Lucky Christmas",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/7ec59c31285231.564a153f837a0.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://codethislab.com/showcase/casino/lucky_christmas/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "3 Cards Monte",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/24f84b25399817.56344ad71f3d0.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://codethislab.com/showcase/casino/3cards/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Master Checkers",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/7d970230594757.5629ef6491f22.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://codethislab.com/showcase/games/master_checkers/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Gummy Blocks",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/b153ab31752117.565f0ed33bc90.png",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/gummy_blocks/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        },
+        {
+            "title" : "Slot Machine Arabian Nights",
+            "description" : "",
+            "image" : "https://codethislab.com/wp-content/uploads/2016/07/48b37132895227.5697ae86dc117.jpg",
+            "category" : "",
+            "orientation" : "landscape",
+            "url" : "https://showcase.codethislab.com/games/slot_arabian/",
+            "featured" : true,
+            "special" : true,
+            "status" : true
+        }
+    ],
+    "meta" : {
+        "totalCount" : 21
+    }
+}
