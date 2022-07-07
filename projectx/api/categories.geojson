@@ -1,0 +1,49 @@
+{
+    "status" : 200,
+    "message" : "Categories fetched successfully",
+    "data" : [
+        {
+            "id" : 1,
+            "parent": 0,
+            "title" : "Action",
+            "slug" : "action",
+            "image" : "",
+            "status" : true
+        },
+        {
+            "id" : 2,
+            "parent": 0,
+            "title" : "Sports",
+            "slug" : "sports",
+            "image" : "",
+            "status" : true
+        },
+        {
+            "id" : 3,
+            "parent": 0,
+            "title" : "Simulation",
+            "slug" : "simulation",
+            "image" : "",
+            "status" : true
+        },
+        {
+            "id" : 4,
+            "parent": 0,
+            "title" : "Adventure",
+            "slug" : "adventure",
+            "image" : "",
+            "status" : true
+        },
+        {
+            "id" : 4,
+            "parent": 0,
+            "title" : "Strategy",
+            "slug" : "strategy",
+            "image" : "",
+            "status" : true
+        }
+    ],
+    "meta" : {
+        "totalCount" : 5
+    }
+}
