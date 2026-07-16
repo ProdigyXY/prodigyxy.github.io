@@ -15,7 +15,7 @@
       "region": "us-east-1",
       "displayName": "Second Enterprise"
     },
-    "staging-tenant": {
+    "staging-tenant2": {
       "tenantId": "Cusecho_ENT_staging",
       "userPoolId": "eu-west-2_8Zf4C3FPN",
       "clientId": "4rfu9b5c1d88tseno9od7vq4si",
