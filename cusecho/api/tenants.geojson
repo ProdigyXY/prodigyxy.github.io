@@ -1,0 +1,18 @@
+{
+    "tenant1": {
+      "tenantId": "Cusecho_ENT_tenant_1",
+      "userPoolId": "eu-west-2_8Zf4C3FPN",
+      "clientId": "4rfu9b5c1d88tseno9od7vq4si",
+      "cognitoDomain": "eu-west-28zf4c3fpn.auth.eu-west-2.amazoncognito.com",
+      "region": "eu-west-2",
+      "displayName": "Company One Ltd"
+    },
+    "tenant2": {
+      "tenantId": "Cusecho_ENT_tenant_2",
+      "userPoolId": "us-east-1_Tenant2UserPoolId",
+      "clientId": "7tenant2clientid0987654321",
+      "cognitoDomain": "auth-tenant2.auth.us-east-1.amazoncognito.com",
+      "region": "us-east-1",
+      "displayName": "Second Enterprise"
+    }
+}
