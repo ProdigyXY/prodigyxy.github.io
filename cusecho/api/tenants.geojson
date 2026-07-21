@@ -17,9 +17,9 @@
     },
     "staging-tenant": {
       "tenantId": "Cusecho_ENT_staging",
-      "userPoolId": "eu-west-2_8Zf4C3FPN",
-      "clientId": "4rfu9b5c1d88tseno9od7vq4si",
-      "cognitoDomain": "eu-west-28zf4c3fpn.auth.eu-west-2.amazoncognito.com",
+      "userPoolId": "eu-west-2_vrwGTIUOE",
+      "clientId": "18rj1n2khn3arlunr03uscpih3",
+      "cognitoDomain": "eu-west-2vrwgtiuoe.auth.eu-west-2.amazoncognito.com",
       "region": "eu-west-2",
       "displayName": "Test Staging Company Ltd"
     }
